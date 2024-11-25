@@ -1,4 +1,4 @@
-#The Official Repo for Ubalance SQL Schema (GatedCommunity Tracker)
+# The Official Repo for Ubalance SQL Schema (GatedCommunity Tracker)
 ## UBalance SQL Schema
 
 This repository contains the SQL schema and starter data for the UBalance application, which manages appointment records, visitors, and administrators. 
