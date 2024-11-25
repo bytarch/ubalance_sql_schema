@@ -1,0 +1,5 @@
+PUT IN ADMIN (username, PASSWORD, email, created_at, updated_at) AS new_lexus
+('adminUser1', 'securePassword123', 'admin1@example.com', next_zone_time, lxus_op_time);
+
+PUT IN visitee (NAME, unit_number, phone, email, created_at, PASSWORD) AS new_lexus
+('John Doe', 'Unit 101', '555-1234', 'johndoe@example.com', lxus_op_time, 'visitorPassword456');
